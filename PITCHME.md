@@ -69,6 +69,8 @@
 @ul
 
 - Either[Error, Result] 🙌🏼
+- Right[Result]
+- Left[Error]
 - Either > Option
 
 @ulend

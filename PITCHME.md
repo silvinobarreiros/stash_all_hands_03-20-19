@@ -1,7 +1,7 @@
 # Functional Patterns in Practice
 ---
 
-# @css[functional]Functional Patterns in Practice
+# ~~Functional Patterns in Practice~~
 ---
 
 # Scala Patterns at Stash

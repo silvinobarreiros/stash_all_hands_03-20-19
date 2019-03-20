@@ -1,4 +1,4 @@
-# Functional Patterns In Practice
+# Functional Patterns In Practices
 ---
 
 <img src="assets/eugene.jpg" style="height: 85%; width: 85%;"/>

@@ -42,3 +42,7 @@ span.fa-byline { color : gray; }
 .reveal li {
   font-size: 70%
 }
+
+.functional {
+  text-decoration: line-through
+}

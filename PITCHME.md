@@ -234,6 +234,8 @@ private def activate(
       ToResponseMarshallable(StatusCodes.OK -> cardActivateResponse)
   }
 ```
+
+@[3](akka http response)
 ---
 
 ## Business Time (Card Handler)

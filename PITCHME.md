@@ -1,3 +1,9 @@
+# Functional Patterns in Practice
+---
+
+# ~Functional Patterns in Practice~
+---
+
 # Scala Patterns at Stash
 ---
 

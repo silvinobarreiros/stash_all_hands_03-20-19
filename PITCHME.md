@@ -236,6 +236,7 @@ private def activate(
 ```
 
 @[3](akka http response)
+@[4](delegate stuff)
 ---
 
 ## Business Time (Card Handler)

@@ -1,0 +1,6 @@
+stealth : stash
+# highlight : pojoaque
+highlight: atelier-plateau-light
+theme: moon
+theme-override: assets/css/PITCHME.css
+transition : fade

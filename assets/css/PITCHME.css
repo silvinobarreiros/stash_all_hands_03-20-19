@@ -1,0 +1,44 @@
+/* Enable List Bullet Icons */
+/* .reveal ul { list-style: none; } */
+
+/* Enable Huge Icons */
+.fa-huge { font-size : 15em; color: #eba3ff; }
+
+/* Custom Icons Colors */
+.fa-pink { color : #eba3ff; }
+.fa-peach { color : #ffa6b9; }
+.fa-orange { color: #fdc200 }
+.fa-lime { color : #b9ff66; }
+
+span.fa-byline { color : gray; }
+
+.reveal section img {
+    border: 0;
+    box-shadow: none;
+  }
+
+.reveal pre {
+  width: 120%;
+  margin-left: -5%;
+}
+
+.reveal table {
+  width: 130%;
+  margin-left: -10%;
+}
+
+.reveal h1 {
+  font-size: 1.55em
+}
+
+.reveal h2 {
+  font-size: 1.35em
+}
+
+.reveal h3 {
+  font-size: 1.15em
+}
+
+.reveal li {
+  font-size: 70%
+}

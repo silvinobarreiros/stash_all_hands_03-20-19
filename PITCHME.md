@@ -1,22 +1,4 @@
-# Functional Patterns In Practices
----
-
-<img src="assets/eugene.jpg" style="height: 85%; width: 85%;"/>
----
-
-## WhoAMI
-
-@ul
-
-- Lead Engineer @ Stash
-- Pug Enthusiast
-- C -> Java -> C# -> Java -> Scala
-
-@ulend
----
-
-## @pugsnaps on IG
-<img src="assets/diesel.jpg" style="height: 40%; width: 40%;"/>
+# Scala Patterns at Stash
 ---
 
 ## Agenda

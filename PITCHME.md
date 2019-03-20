@@ -14,7 +14,7 @@
 
 @ul
 
-- Lead Engineer @ Stash
+- Princi-pal Engineer @ Stash
 - Pug Enthusiast
 - C -> Java -> C# -> Java -> Scala
 

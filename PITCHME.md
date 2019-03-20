@@ -202,7 +202,7 @@ class UsersController(dependencies: Dependencies) extends LoggedController {
       pathPrefix(cardRoute) { (userId, accountId, cardId) =>
         pathPrefix("activate") {
           // PUT /users/:userId/accounts/:accountId/cards/:cardId/activate
-          putLoggedAuthorized(userId, accountId)(ActivateRequest.jsonFormat
+          putLoggedAuthorized(userId, accountId)(ActivateRequest.jsonFormat)
             activateReq =>
               complete(activate(userId, accountId, cardId, activateReq))
           }
